@@ -8,6 +8,6 @@ Steps to follow while working on github
 - Use other options for filtration purposes when u have many issues
 ## Step 2: Turn on GitHub Pages
 ### Activity: Enable GitHub Pages
-- Click on the Settings tab in this repository
+- Click on the [Settings](https://github.com/snilvaish/Learning-Github/settings) tab in this repository
 - Scroll down to the "GitHub Pages" section
 - From the "Source" drop down, select main branch
